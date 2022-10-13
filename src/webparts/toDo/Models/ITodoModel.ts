@@ -1,7 +1,7 @@
 export interface ITodoModel{
     ID:string;
     Title: string;
-    TaskName:string;
+    Taskname:string;
     Description :string;
     ToDoDate : string;
     Doneby :string;

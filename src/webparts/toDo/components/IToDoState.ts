@@ -10,5 +10,6 @@ export interface IToDoState {
     createdBy:string;
     createdDate:string;
     formState:string;
-    rows:number;
+    rows: any[];
+    
 }
